@@ -1,6 +1,6 @@
 edition = "2023";
 
-package UFilterPickerProxyAPI.V1;
+package UFilterPickerMessageStoreAPI.V1;
 
 /*!
  * A data stream identification on which the pick was made.  The identifier
